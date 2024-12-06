@@ -1,0 +1,6 @@
+print('Olá, mundo!')
+print('Bom dia!')
+print('Bem vindo!')
+print('bye bye')
+print('muito obrigada')
+print('volte sempre')
